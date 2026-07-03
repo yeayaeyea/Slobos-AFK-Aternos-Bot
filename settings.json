@@ -28,7 +28,7 @@
     },
     "chat-messages": {
       "enabled": false,
-      "repeat": true,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
@@ -61,7 +61,7 @@
     "avoidMobs": true,
     "combat": true,
     "beds": false,
-    "chat": true,
+    "chat": false,
     "console-commands": true
   },
   "combat": {
@@ -82,6 +82,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
