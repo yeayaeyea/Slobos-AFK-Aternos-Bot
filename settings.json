@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mentoshouse.aternos.me ",
+    "ip": "mentoshouse.aternos.me",
     "port": 52582,
     "version": "",
     "try-creative": false
